@@ -84,5 +84,8 @@ void MainWindow::createView(QTableWidget *tableWidge, int row, int coulmn,QStrin
 void MainWindow::createLineChart()
 {
 
+
+
+
 }
 
